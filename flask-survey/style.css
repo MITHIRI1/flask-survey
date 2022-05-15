@@ -1,0 +1,31 @@
+.navbar {
+	background-color: black;
+	overflow: hidden;
+}
+
+.navbar a {
+	float: left;
+	color: white;
+	text-decoration: none;
+	padding: 14px 16px;
+	text-align: center;
+}
+
+.navbar a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#content {
+	margin: 40px;
+}
+
+.messages .error {
+	color: red;
+	background-color: cornflowerblue;
+}
